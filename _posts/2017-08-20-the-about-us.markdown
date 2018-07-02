@@ -7,22 +7,8 @@ img: massage-about.jpg # Add image post (optional)
 tags: [about, massage]
 author: # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to the Alpha Relax Spa and Massage Center, one of places for an Asian massage in Hurst, TX. We are a team of trained and well experienced massage therapists trained in a wide range of therapies and treatments, including the Chinese massage, sweet girl massage, and body to body massage.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We are known for our extraordinary massages, detox services, and energy healing treatments. If you are tired and looking for a way to de-stress, visit us – we promise one of the best Asian massage in Hurst, TX. Our team will help you relax, rejuvenate, and revitalize.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+We also offer regular discounts and promo offers. Speak to our staff about current offers before you book an appointment. Planning a bridal party? Hire our therapists to give the bride and her gang the best experience ever.
