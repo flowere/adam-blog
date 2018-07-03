@@ -7,3 +7,18 @@ img: m-5.jpg # Add image post (optional)
 tags: [massage services, massage]
 author: # Add name author (optional)
 ---
+# Body/Acupuncture
+* 30 mins .......... $45
+* 60 mins .......... $60
+* 90 mins .......... $90
+* 120 mins ......... $120
+
+# Four Hands
+* 30 mins .......... $80
+* 60 mins .......... $110
+
+# Combo
+* 60 mins .......... $50
+
+# Foot
+* 60 mins .......... $40
