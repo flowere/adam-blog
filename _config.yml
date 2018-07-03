@@ -25,10 +25,10 @@ instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+mailchimp: rubingkuo@gmail.com # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: alpharelaxspa # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
